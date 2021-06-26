@@ -2,7 +2,7 @@
 - 👀 I’m interested in app building
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on world conquer
-- 📫 How to reach me mprtcz@gmail.com
+- 📫 How to reach me...
 
 <!---
 mprtcz/mprtcz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
