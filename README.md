@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on world conquer
 - 📫 How to reach me...
 
-<a href="https://app.daily.dev/Mekel"><img src="https://github.com/mprtcz/mprtcz/blob/master/devcard.svg" width="400" alt="Michal's Dev Card"/></a>
+<a href="https://app.daily.dev/Mekel"><img src="https://github.com/mprtcz/mprtcz/blob/main/devcard.svg" width="400" alt="Michal's Dev Card"/></a>
 
 
 <!---
